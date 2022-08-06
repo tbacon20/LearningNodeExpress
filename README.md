@@ -1,6 +1,6 @@
 # Learning Node and Express
 
-This is a set of lessons that will walk you through learning [Node.js](https://nodejs.org/en/) and [Express](https://expressjs.com/).
+This is a set of lessons on Node.js and Express
 
 * [Overview](/OVERVIEW.md): Discusses what Node.js and Express do
 
